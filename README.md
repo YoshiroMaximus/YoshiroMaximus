@@ -18,4 +18,4 @@ I'm a passionate developer with a love for art and design. I enjoy working on cr
 
 ## 📈 GitHub Stats
 ![Yoshiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiromaximus&show_icons=true&theme=radical)
-[![.](https://supreme-meme-4rqv75pgp9xfgq-8080.app.github.dev/)
+[.](https://supreme-meme-4rqv75pgp9xfgq-8080.app.github.dev/)
