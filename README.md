@@ -31,5 +31,3 @@ homelab dev & computer designer · high schooler building things that i actually
 **raspberry pi cluster** — dietpi · lightweight (music / dl) distributed services
 
 ---
-
-[sn4k.org/yoshiro](https://sn4k.org/yoshiro)
