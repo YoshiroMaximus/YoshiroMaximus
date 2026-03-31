@@ -29,5 +29,3 @@ homelab dev & computer designer · high schooler building things that i actually
 **diy homelab** — self-built server · ryzen 3400g · 32gb ram · 2×16tb hdd · 1tb ssd
 
 **raspberry pi cluster** — dietpi · lightweight (music / dl) distributed services
-
----
