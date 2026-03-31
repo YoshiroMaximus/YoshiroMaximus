@@ -32,4 +32,4 @@ homelab dev & computer designer · high schooler building things that i actually
 
 ---
 
-[sn4k.org/yoshiro](https://sn4k.org/yoshiro) · [nico@sendan.com](mailto:nico@sendan.com)
+[sn4k.org/yoshiro](https://sn4k.org/yoshiro)
