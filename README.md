@@ -1,22 +1,35 @@
-# Hey, I'm Nico 👋  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoshiromaximus)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoshiromaximus)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uCA94eKGWs)
+# nico
 
-## 🚀 About Me
-I build stuff that makes life easier. Too much vibecoding.
+homelab dev & computer designer · high schooler building things that i actually use
 
-working on: websites • automation • unraid  
+---
 
-## 🛠 Skills  
-**Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+**im working on** - websites · automation · self-hosted infrastructure
 
-**Self-Hosting:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Unraid](https://img.shields.io/badge/Unraid-F15A29?style=flat&logo=unraid&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)  
+---
 
-**Apps on unraid:** Immich • Authentik • Jellyfin • Vaultwarden • OwnCloud OCIS • Navidrome • Kavita  
+### things i know
 
-**Editing:** Photoshop • Davinci Resolve • Figma  
+`html / css` `javascript` `python` `docker` `docker compose` `linux` `nginx` `networking` `git` `cloudflare`
 
+### self-hosted stack
 
-## 📊 Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=yoshiromaximus&show_icons=true&theme=radical) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiromaximus&layout=compact&theme=radical)
+`immich` `authentik` `jellyfin` `vaultwarden` `owncloud ocis` `navidrome` `kavita`
+
+### tools
+
+`photoshop` `davinci resolve` `figma`
+
+---
+
+### builds
+
+**modded minecraft server** — papermc 1.21.1 running through crafty controller, hosted for me and my friends
+
+**diy homelab** — self-built server · ryzen 3400g · 32gb ram · 2×16tb hdd · 1tb ssd
+
+**raspberry pi cluster** — dietpi · lightweight (music / dl) distributed services
+
+---
+
+[sn4k.org/yoshiro](https://sn4k.org/yoshiro) · [nico@sendan.com](mailto:nico@sendan.com)
