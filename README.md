@@ -13,11 +13,9 @@
 ### `~/whoami`
 
 ```yaml
-name:     nico sendan
 handle:   yoshiromaximus
 role:     dev + designer · building things i actually use
 focus:    websites · automation · self-hosted infrastructure
-status:   high schooler, perpetually tinkering
 ```
 
 ---
@@ -81,9 +79,6 @@ status:   high schooler, perpetually tinkering
 ### `~/stats`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YoshiroMaximus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiroMaximus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoshiroMaximus&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
