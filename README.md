@@ -38,6 +38,7 @@ focus:    websites · automation · self-hosted infrastructure
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/claude_code-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **design tools**
 
