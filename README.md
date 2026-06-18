@@ -4,7 +4,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=YoshiroMaximus&style=flat-square&color=blueviolet)](https://github.com/YoshiroMaximus)
 [![Website](https://img.shields.io/badge/sn4k.org-000000?style=flat-square&logo=safari&logoColor=white)](https://sn4k.org)
-[![Location](https://img.shields.io/badge/san_francisco-ea4335?style=flat-square&logo=googlemaps&logoColor=white)](#)
+![Location](https://img.shields.io/badge/san_francisco-ea4335?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -13,9 +13,10 @@
 ### `~/whoami`
 
 ```yaml
-handle:   yoshiromaximus
-role:     dev + designer · building things i actually use
-focus:    websites · automation · self-hosted infrastructure
+handle:     yoshiromaximus
+currently:  running a self-hosted homelab · building sn4k.org
+learning:   swift · networking · better infra habits
+focus:      websites · automation · self-hosted infrastructure
 ```
 
 ---
@@ -81,7 +82,7 @@ focus:    websites · automation · self-hosted infrastructure
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoshiroMaximus&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=YoshiroMaximus&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
