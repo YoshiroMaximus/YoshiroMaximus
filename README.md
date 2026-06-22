@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=nico&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=homelab%20dev%20%C2%B7%20computer%20designer%20%C2%B7%20high%20schooler&descAlignY=58&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=nico&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=homelab%20dev%20%C2%B7%20designer%20%C2%B7%20high%20schooler&descAlignY=58&descSize=18" width="100%" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=YoshiroMaximus&style=flat-square&color=blueviolet)](https://github.com/YoshiroMaximus)
 [![Website](https://img.shields.io/badge/sn4k.org-000000?style=flat-square&logo=safari&logoColor=white)](https://sn4k.org)
@@ -10,18 +10,11 @@
 
 ---
 
-### `~/whoami`
-
-```yaml
-handle:     yoshiromaximus
-currently:  running a self-hosted homelab · building sn4k.org
-learning:   swift · networking · better infra habits
-focus:      websites · automation · self-hosted infrastructure
-```
-
----
-
-### `~/stack`
+- 🔭 Currently running [my crafty4 + papermc 26.1.2 server](https://modrinth.com/collection/3S4B4n7M)
+- 🌱 Learning **Swift, Docker, and networking**
+- 👨‍💻 Projects: [sn4k.org/portfolio](https://sn4k.org/portfolio)
+- 💬 Ask me about **Unraid, DaVinci Resolve, Linux, or Claude Code**
+- ⚡ Fun fact: I published a Vulkan Modrinth modpack!
 
 **languages & frameworks**
 
@@ -46,31 +39,17 @@ focus:      websites · automation · self-hosted infrastructure
 ![Photoshop](https://img.shields.io/badge/photoshop-31a8ff?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![DaVinci](https://img.shields.io/badge/davinci_resolve-233a51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-f5792a?style=for-the-badge&logo=blender&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/obsidian-7c3aed?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
-
-### `~/self-hosted`
-
-| service           | purpose                       |
-| :---------------- | :---------------------------- |
-| **immich**        | photo backup + management     |
-| **voidauth**      | sso for all my services       |
-| **jellyfin**      | media streaming               |
-| **vaultwarden**   | password manager              |
-| **copyparty**     | file sync + storage           |
-| **navidrome**     | music streaming               |
-
----
-
-### `~/builds`
-
+also got myself my own servers...
 ```
 ┌─ modded minecraft server
-│  papermc 26.1.2 · crafty controller 4 · hosted for friends
+│  papermc 26.2 · crafty controller 4 · hosted for friends
 │
 ├─ diy homelab
-│  self-built · ryzen 3400g · 32gb ram · 2×16tb hdd · 1tb ssd
+│  self-built · ryzen 3400g · 32gb ram · 2×16tb hdd · 1tb nvme ssd
 │
 └─ raspberry pi cluster
    dietpi · lightweight distributed services (music / dl)
@@ -78,20 +57,10 @@ focus:      websites · automation · self-hosted infrastructure
 
 ---
 
-### `~/stats`
+<h3 align="center">stats</h3>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=YoshiroMaximus&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-</div>
-
----
-
-<div align="center">
-
-```
-"build things you'd actually use."
-```
 
 </div>
