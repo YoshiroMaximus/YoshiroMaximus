@@ -49,7 +49,7 @@ also got myself my own servers...
 │  papermc 26.2 · crafty controller 4 · hosted for friends
 │
 ├─ diy homelab
-│  self-built · ryzen 3400g · 32gb ram · 2×16tb hdd · 1tb nvme ssd
+│  self-built · intel i5-14500 · 32gb ram · 2×16tb hdd · 1tb nvme ssd
 │
 └─ raspberry pi cluster
    dietpi · lightweight distributed services (music / dl)
